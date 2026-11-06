@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-02T22:30:51 IST" name="Suite" finished-at="2026-11-02T22:30:58 IST" duration-ms="7133">
+    <groups>
+    </groups>
+    <test started-at="2026-11-02T22:30:51 IST" name="Test" finished-at="2026-11-02T22:30:58 IST" duration-ms="7133">
+      <class name="testpkg.Paymenttest">
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Paymenttest@3857f613]" started-at="2026-11-02T22:30:57 IST" name="objectmthd" finished-at="2026-11-02T22:30:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="paymentpagemthd()[pri:1, instance:testpkg.Paymenttest@3857f613]" started-at="2026-11-02T22:30:57 IST" name="paymentpagemthd" finished-at="2026-11-02T22:30:58 IST" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentpagemthd -->
+      </class> <!-- testpkg.Paymenttest -->
+      <class name="testpkg.Logintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.Logintest@1fa121e2]" started-at="2026-11-02T22:30:51 IST" name="setup" finished-at="2026-11-02T22:30:54 IST" duration-ms="3658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Logintest@1fa121e2]" started-at="2026-11-02T22:30:54 IST" name="objectmthd" finished-at="2026-11-02T22:30:55 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="titleverificationmthd()[pri:1, instance:testpkg.Logintest@1fa121e2]" started-at="2026-11-02T22:30:55 IST" name="titleverificationmthd" finished-at="2026-11-02T22:30:55 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleverificationmthd -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Logintest@1fa121e2]" started-at="2026-11-02T22:30:55 IST" name="objectmthd" finished-at="2026-11-02T22:30:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="loginvalidationmthd()[pri:2, instance:testpkg.Logintest@1fa121e2]" started-at="2026-11-02T22:30:55 IST" name="loginvalidationmthd" finished-at="2026-11-02T22:30:55 IST" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginvalidationmthd -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Logintest@1fa121e2]" started-at="2026-11-02T22:30:55 IST" name="objectmthd" finished-at="2026-11-02T22:30:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="urlvalidation()[pri:3, instance:testpkg.Logintest@1fa121e2]" started-at="2026-11-02T22:30:55 IST" name="urlvalidation" finished-at="2026-11-02T22:30:56 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlvalidation -->
+      </class> <!-- testpkg.Logintest -->
+      <class name="testpkg.Carttest">
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Carttest@15de0b3c]" started-at="2026-11-02T22:30:56 IST" name="objectmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="cartsymbolmthd()[pri:1, instance:testpkg.Carttest@15de0b3c]" started-at="2026-11-02T22:30:56 IST" name="cartsymbolmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartsymbolmthd -->
+        <test-method signature="verifytext()[pri:2, instance:testpkg.Carttest@15de0b3c]" started-at="2026-11-02T22:30:56 IST" name="verifytext" finished-at="2026-11-02T22:30:56 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytext -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Carttest@15de0b3c]" started-at="2026-11-02T22:30:56 IST" name="objectmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="checkoutmthd()[pri:3, instance:testpkg.Carttest@15de0b3c]" started-at="2026-11-02T22:30:56 IST" name="checkoutmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutmthd -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Carttest@15de0b3c]" started-at="2026-11-02T22:30:56 IST" name="objectmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+      </class> <!-- testpkg.Carttest -->
+      <class name="testpkg.Checkouttest">
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Checkouttest@489115ef]" started-at="2026-11-02T22:30:56 IST" name="objectmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="carttestmethod()[pri:1, instance:testpkg.Checkouttest@489115ef]" started-at="2026-11-02T22:30:56 IST" name="carttestmethod" finished-at="2026-11-02T22:30:57 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carttestmethod -->
+      </class> <!-- testpkg.Checkouttest -->
+      <class name="testpkg.Hometest">
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Hometest@1a677343]" started-at="2026-11-02T22:30:56 IST" name="objectmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="textverify()[pri:1, instance:testpkg.Hometest@1a677343]" started-at="2026-11-02T22:30:56 IST" name="textverify" finished-at="2026-11-02T22:30:56 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textverify -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Hometest@1a677343]" started-at="2026-11-02T22:30:56 IST" name="objectmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="linkverify()[pri:2, instance:testpkg.Hometest@1a677343]" started-at="2026-11-02T22:30:56 IST" name="linkverify" finished-at="2026-11-02T22:30:56 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkverify -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.Hometest@1a677343]" started-at="2026-11-02T22:30:56 IST" name="objectmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="cartmthd()[pri:3, instance:testpkg.Hometest@1a677343]" started-at="2026-11-02T22:30:56 IST" name="cartmthd" finished-at="2026-11-02T22:30:56 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartmthd -->
+      </class> <!-- testpkg.Hometest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
